@@ -119,6 +119,6 @@ eklendiğinden emin olun.
 **Adım 7:** Projeye tekrar sağ tıklayıp Run (Çalıştır) seçeneğine basarak (veya doğrudan F6 tuşuyla) uygulamayı başlatın.
 
 ## Kullanılan teknolojiler
->Java
->Java Swing (GUI Builder)
->Apache NetBeans IDE
+-Java
+-Java Swing (GUI Builder)
+-Apache NetBeans IDE
